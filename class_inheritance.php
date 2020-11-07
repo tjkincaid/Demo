@@ -15,6 +15,7 @@ class Car {
 	}
 }
 
+
 $bmw = new Car();
 
 class Plane extends Car {

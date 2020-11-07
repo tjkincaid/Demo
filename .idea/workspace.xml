@@ -100,7 +100,7 @@
       <workItem from="1604089020778" duration="8301000" />
       <workItem from="1604120782030" duration="7761000" />
       <workItem from="1604200452575" duration="6552000" />
-      <workItem from="1604723809136" duration="467000" />
+      <workItem from="1604723809136" duration="853000" />
     </task>
     <servers />
   </component>
@@ -170,15 +170,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604202928080" />
-    <state x="403" y="167" key="SettingsEditor" timestamp="1604724428484">
+    <state x="403" y="167" key="SettingsEditor" timestamp="1604724581247">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="403" y="167" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604724428484" />
+    <state x="403" y="167" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604724581247" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604023553803" />
     <state x="632" y="303" key="Vcs.Push.Dialog.v2" timestamp="1604023604565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="632" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604023604565" />
+    <state x="100" y="100" width="968" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604724919540">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="100" y="100" width="968" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1604724919540" />
     <state x="283" y="123" width="585" height="801" key="find.popup" timestamp="1604203535614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
